@@ -1,0 +1,631 @@
+# この viminfo ファイルは Vim 7.3 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~Msle0~/\<GRE\>
+
+# 最後に置換された文字列:
+$
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+:wq
+:w
+::q
+:q!
+:a
+:'<,'>q
+:INSTALL
+:wwq
+:quit
+:t
+::
+:qy
+:e user/Demo.ml
+::wq
+:w!
+:.wq
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+? \<GRE\>
+? \<prestige\>
+?/GRE
+?/GRRE" =
+?/GRE =
+?/player
+?/=18
+?/22401
+?/22¥.0
+?/22.0
+?/1927.0
+?/prestige=5
+?/prestige=
+?/prestige¥=
+?/"GRE"
+?/prestige
+?/=0
+?/=5¥n
+?/=5
+?/="5"
+?/5
+?/GREEK
+?/Greece
+?/pars
+?/persi
+?/other
+?/mysql
+? \<GBR\>
+?/capital
+?/capitalj
+?/date
+?/template
+?/homepage
+? \<aDomId\>
+? \<defaultLayout\>
+? \<handlerName\>
+? \<sampleForm\>
+? \<generateFormPost\>
+? \<runFormPost\>
+? \<newIdent\>
+? \<Snaplet\>
+? \<Extra\>
+? \<extraCopyright\>
+? \<parseExtra\>
+? \<newManager\>
+? \<GBR\>
+? \<aDomId\>
+? \<defaultLayout\>
+? \<handlerName\>
+? \<sampleForm\>
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""0	CHAR	0
+	 
+"1	CHAR	0
+	ctions and place them in separate files.
+	mkYesodData "App" $(p
+"2	LINE	0
+	
+"3	LINE	0
+		    --enable-disasm \
+"4	LINE	0
+		    --enable-debugger \
+"5	LINE	0
+	
+"6	LINE	0
+	
+"7	LINE	0
+	NASM=nasm
+"8	LINE	0
+		$(NASM) boot.nasm 
+"9	LINE	0
+	boot:boot.nasm
+"-	CHAR	0
+	 
+
+# ファイルマーク:
+'0  95  0  ~/Work/yesod-platform/cabal-dev/test1/test1.cabal
+'1  1  0  /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/VICTORIA2/Data/mod/ABM for APD 2.1.1/localisation/textbyzmod.csv
+'2  2  0  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+'3  3  139  /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/VICTORIA2/Data/mod/PDM.mod
+'4  2  0  /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/VICTORIA2/Data/.git/COMMIT_EDITMSG
+'5  2  9  /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/VICTORIA2/Data/.gitignore
+'6  1  2  /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/VICTORIA2/Data/.gitignore
+'7  1  0  ~/.ghc/i386-darwin-7.4.2/package.conf.d/package.cache
+'8  39  0  ~/.ghc/x86_64-darwin-7.4.2/package.conf.d
+'9  15  0  ~/.cabal/config
+
+# ジャンプリスト (新しいものが先):
+-'  95  0  ~/Work/yesod-platform/cabal-dev/test1/test1.cabal
+-'  1  0  ~/Work/yesod-platform/cabal-dev/test1/test1.cabal
+-'  1  0  /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/VICTORIA2/Data/mod/ABM for APD 2.1.1/localisation/textbyzmod.csv
+-'  2  0  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1322973  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1326394  0  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1283623  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1282312  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1280914  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1279791  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1278760  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1277730  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1276680  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1275648  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1274608  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1273529  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1272492  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1271462  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1270414  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1269379  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1267982  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1266543  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1265076  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1264032  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1262504  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1261105  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1260046  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1258992  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1257557  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1256131  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1254559  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1252951  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1251473  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1249926  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1248624  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1247161  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1245354  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1242807  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1241192  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1239417  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1237990  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1236584  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1235121  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1233623  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1232140  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1230713  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1229629  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1228148  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1226378  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1224909  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1223362  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1221854  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1220337  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1218855  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1217773  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1216382  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1215265  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1213843  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1212155  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1210629  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1209155  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1207639  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1206042  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1204510  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1202958  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1201433  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1199859  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1198321  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1196769  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1195233  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1194110  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1192710  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1190929  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1189109  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1187519  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1186276  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1184796  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1183241  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1182070  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1180683  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1179532  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1178100  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1176843  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1175789  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1174310  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1172445  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1171037  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1169822  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1168423  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1166987  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1165533  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1164384  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1163059  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1161818  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1160455  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1159356  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1157863  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1156176  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+-'  1154767  1  ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/Work/yesod-platform/cabal-dev/test1/test1.cabal
+	"	95	0
+
+> /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/VICTORIA2/Data/mod/ABM for APD 2.1.1/localisation/textbyzmod.csv
+	"	1	0
+
+> ~/Library/Application Support/com.vpltd.Victoria2AHouseDivided/GameDocuments/Paradox Interactive/Victoria II/mod/PDM/save games/Greece1836_01_07.v2
+	"	2	0
+	.	443920	0
+	+	443920	0
+
+> /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/VICTORIA2/Data/mod/PDM.mod
+	"	3	139
+
+> /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/VICTORIA2/Data/.git/COMMIT_EDITMSG
+	"	2	0
+	^	2	0
+	.	1	12
+	+	1	12
+
+> /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/VICTORIA2/Data/.gitignore
+	"	2	9
+	^	2	10
+	.	2	9
+	+	1	2
+	+	2	9
+
+> ~/.ghc/i386-darwin-7.4.2/package.conf.d/package.cache
+	"	1	0
+
+> ~/.cabal/config
+	"	15	0
+
+> ~/.cabal/config.platform
+	"	1	0
+
+> ~/.ghc/x86_64-darwin-7.4.2/package.conf.d/persistent-template-1.0.0.2-64b54bacccda22c349c44a5031eada0d.conf
+	"	38	34
+
+> ~/prog/yblog/examp10.hs
+	"	180	0
+
+> ~/Work/ty/ty/ty.cabal
+	"	95	17
+	.	96	0
+	+	55	0
+	+	96	0
+
+> /private/etc/my.cnf
+	"	1	0
+
+> ~/47877.dot
+	"	1	0
+
+> ~/28074.dot
+	"	26	0
+
+> ~/04246.dot
+	"	1	0
+
+> ~/04161.dot
+	"	1	0
+
+> ~/00794.dot
+	"	1	0
+
+> ~/00793.dot
+	"	1	0
+
+> ~/28163.dot
+	"	1	0
+
+> ~/28164.dot
+	"	28	0
+
+> ~/00791.dot
+	"	1	0
+
+> ~/00700.dot
+	"	1	0
+
+> ~/t
+	"	1	0
+
+> ~/prog/Scipt.hs
+	"	19	0
+
+> /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/EU3COMPLETE/Data/save games/autosave.eu3
+	"	306707	1
+	^	306616	14
+	.	306616	14
+	+	306448	8
+	+	306449	8
+	+	306450	8
+	+	306461	14
+	+	306462	15
+	+	306463	15
+	+	306464	20
+	+	306465	0
+	+	306461	0
+	+	306528	15
+	+	306531	20
+	+	306538	14
+	+	306527	14
+	+	306529	15
+	+	306616	14
+
+> /Users/Shared/Deliver2Mac/Accounts/oskimura_gmail.com/Installs/EU3COMPLETE/Data/save games/Great_Britain1679_05_24.eu3
+	"	90827	18
+
+> ~/prog/messages-blog
+	"	5	0
+	^	1	2
+	.	5	0
+	+	5	2
+	+	1	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+
+> ~/prog/iserv/src/iserve_app.erl
+	"	13	0
+	^	13	0
+	.	13	0
+	+	13	0
+
+> src/iserve_app.erl
+	"	1	0
+
+> ~/prog/trf/Example/Import.hs
+	"	19	7
+
+> ~/prog/trf/Example/Handler/Home.hs
+	"	13	22
+
+> ~/prog/trf/Example/templates/homepage.hamlet
+	"	35	0
+
+> ~/prog/snp/snp.cabal
+	"	51	0
+
+> ~/prog/snp/src/Site.hs
+	"	31	12
+
+> ~/prog/snp/src/Application.hs
+	"	17	0
+
+> ~/prog/myproj/src/Application.hs
+	"	19	16
+
+> ~/prog/myproj/myproj.cabal
+	"	47	12
+
+> ~/prog/trf/Example/Settings.hs
+	"	58	4
+
+> ~/Work/mochiweb/examples/hmac_api/hmac_api_lib.erl
+	"	136	0
+
+> ~/Work/mochiweb/src/mochiweb_io.erl
+	"	42	0
+
+> ~/prog/trf/Example/Application.hs
+	"	25	15
+
+> ~/prog/trf/Example/Foundation.hs
+	"	140	31
+	.	69	0
+	+	69	0
+
+> ~/prog/trf/Example/main.hs
+	"	1	0
+
+> ~/prog/trf/Example/Model.hs
+	"	5	0
+
+> ~/Work/cfml/temp/autodep_Makefile
+	"	127	0
+
+> ~/Work/cfml/temp/FuncPrint.v
+	"	228	0
+
+> ~/Work/cfml/temp/FuncTactics.v
+	"	1	0
+
+> ~/Work/cfml/Makefile
+	"	314	8
+
+> ~/Work/cfml/okasaki/BinomialHeap_proof.v
+	"	1	0
+
+> ~/Work/cfml/okasaki/BinomialHeap_ml.v
+	"	5	6
+
+> ~/Work/cfml/user/Demo_proof.v
+	"	1	0
+
+> ~/Work/cfml/local_settings.sh
+	"	5	0
+
+> ~/Work/cfml/go.sh
+	"	2	0
+	^	3	58
+	.	3	57
+	+	3	57
+
+> ~/Work/cfml/g
+	"	1	0
+
+> ~/Work/go.sh
+	"	1	0
+
+> ~/Work/webmachine/src/webmachine.erl
+	"	47	40
+	^	40	12
+	.	40	11
+	+	42	11
+	+	41	11
+	+	40	11
+
+> ~/Work/webmachine/src/webmachine_app.erl
+	"	22	0
+
+> ~/Work/otp/lib/kernel/src/code.erl
+	"	142	4
+
+> ~/Work/otp/erts/emulator/beam/bif.c
+	"	62	18
+
+> ~/Work/otp/erts/emulator/beam/erl_process.c
+	"	6984	8
+
+> ~/Work/otp/erts/emulator/beam/erl_process.h
+	"	661	0
+
+> ~/prog/iserv/src/test_iserve_app.erl
+	"	4	0
+
+> ~/prog/iserv/src/iserve_server.erl
+	"	4	21
+	^	16	0
+	.	16	0
+	+	16	0
+
+> ~/prog/iserv/src/iserve.erl
+	"	47	0
+
+> ~/prog/iserv/src/iserve_sup.erl
+	"	24	11
+
+> ~/Work/otp/erts/emulator/beam/erl_arith.c
+	"	258	1
+
+> ~/Work/otp/erts/emulator/beam/erl_alloc.c
+	"	510	10
+
+> ~/Work/otp/erts/emulator/beam/erl_alloc.h
+	"	123	20
+
+> ~/Work/otp/erts/emulator/beam/sys.h
+	"	729	25
+
+> ~/Work/otp/erts/emulator/beam/erl_alloc_util.h
+	"	442	21
+
+> ~/Work/esdl/Readme.MacOSX-Cocoa
+	"	15	0
+
+> ~/Work/esdl/c_src/esdl.h
+	"	28	0
+
+> ~/Work/esdl/Readme
+	"	111	0
+
+> ~/Work/esdl/Makefile
+	"	121	0
+
+> ~/Work/esdl/test/testsprite.erl
+	"	48	0
+
+> ~/prog/iserv/src/iserve.app.src
+	"	5	0
+
+> ~/prog/iserv/ebin/iserv.app
+	"	6	0
+
+> ~/prog/iserv/iserv.app
+	"	1	0
+
+> ~/prog/iserv/iserve.conf
+	"	1	0
+
+> ~/Work/mongo/src/mongo/db/btreebuilder.cpp
+	"	109	14
+
+> ~/Work/mongo/src/mongo/db/diskloc.h
+	"	62	13
+
+> ~/Work/re2/t/cpp/re2.h
+	"	1	0
+	^	2	141
+	.	3	0
+	+	1	98
+	+	2	140
+	+	1	0
+	+	2	0
+	+	3	0
+
+> ~/Work/xbyak/t/cpp/cpp/xbyak.h
+	"	273	0
+
+> ~/Work/xbyak/xbyak/xbyak.h
+	"	15	38
+
+> ~/Work/xbyak/xbyak/xbyak_bin2hex.h
+	"	258	1
+
+> ~/Work/xbyak/Makefile
+	"	12	0
+
+> ~/Work/cowboy/Makefile
+	"	35	0
+
+> ~/Work/mmitouos/Makefile
+	"	19	45
+	^	19	46
+	.	19	45
+	+	19	7
+	+	28	7
+	+	19	45
+
+> ~/Work/mmitouos/lnk.ls
+	"	10	0
+
+> ~/prog/cgen_sample/make.sh
+	"	1	0
+
+> ~/Work/re2/re2/re2.cc
+	"	1041	9
+
+> ~/Work/re2/re2/re2.h
+	"	264	15
+
+> ~/Downloads/bochs-2.5.1/.conf.macosx
+	"	34	5
+	.	34	0
+	+	11	22
+	+	15	23
+	+	16	25
+	+	23	9
+	+	34	0
+
+> ~/Downloads/bochs-2.5.1/README
+	"	84	12
+
+> ~/prog/myos/src/OMakefile
+	"	1	0
+	.	1	0
+	+	1	11
+	+	1	10
+	+	1	7
+	+	1	11
+	+	1	5
+	+	1	17
+	+	1	0
+	+	1	0
+	+	1	5
+	+	1	0
+	+	1	8
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/prog/myos/OMakefile
+	"	163	10
+	^	163	11
+	.	163	10
+	+	36	12
+	+	22	0
+	+	163	6
+	+	161	8
+	+	162	7
+	+	163	10
+
+> ~/prog/myos/OMake
+	"	1	0
+
+> ~/prog/myos/src/proto0_a.asm
+	"	1	0
+	^	5	0
+	.	1	0
+	+	2	0
+	+	1	5
+	+	4	23
+	+	1	0
+
+> ~/prog/myos/proto0_a.asm
+	"	1	0

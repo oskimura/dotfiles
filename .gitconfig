@@ -1,0 +1,15 @@
+[user]
+	name = oskimura
+	email = oskimura@gmail.com
+[core]
+	excludesfile = /Users/oskimura/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Volumes/SourceTree/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[color]
+	ui = auto
+[alias]
+	st = status
